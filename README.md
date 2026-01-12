@@ -1,4 +1,4 @@
-# Hi, I'm Andi Asyraful 👋
+# Hi, I'm Andi Asyraful 
 **Web Developer Intern @ Ashari Tech** *Specializing in Next.js, React, and Modern Web Ecosystem.*
 
 ---
