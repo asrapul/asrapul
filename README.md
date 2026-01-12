@@ -19,14 +19,6 @@ I'm a frontend-focused developer based in Makassar, Indonesia. I enjoy building 
 
 ---
 
-### 📊 GitHub Productivity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asrapul&show_icons=true&theme=transparent&hide_border=true&title_color=3F51B5&text_color=717171&icon_color=3F51B5" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrapul&layout=compact&theme=transparent&hide_border=true&title_color=3F51B5&text_color=717171" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/andi-asyraful-amal-ilham-8b09b730a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
