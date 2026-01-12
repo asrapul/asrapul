@@ -19,18 +19,6 @@ I'm a frontend-focused developer based in Makassar, Indonesia. I enjoy building 
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asrapul&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrapul&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asrapul&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/andi-asyraful-amal-ilham-8b09b730a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -42,7 +30,3 @@ I'm a frontend-focused developer based in Makassar, Indonesia. I enjoy building 
 </p>
 
 <p align="center"><i>"Code, Commit, Repeat."</i></p>
-
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github?username=asrapul&color_snake=%23dc2626&top_color=%23ffffff&low_color=%23f3f4f6" alt="snake" />
-</p>
