@@ -21,12 +21,12 @@ I'm a frontend-focused developer based in Makassar, Indonesia. I enjoy building 
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AndiAsyraful&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndiAsyraful&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=asrapul&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrapul&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndiAsyraful&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asrapul&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -44,5 +44,5 @@ I'm a frontend-focused developer based in Makassar, Indonesia. I enjoy building 
 <p align="center"><i>"Code, Commit, Repeat."</i></p>
 
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github?username=AndiAsyraful&color_snake=%23dc2626&top_color=%23ffffff&low_color=%23f3f4f6" alt="snake" />
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github?username=asrapul&color_snake=%23dc2626&top_color=%23ffffff&low_color=%23f3f4f6" alt="snake" />
 </p>
